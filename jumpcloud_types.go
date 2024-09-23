@@ -1,4 +1,4 @@
-ackage pkg
+package pkg
 
 import "time"
 
